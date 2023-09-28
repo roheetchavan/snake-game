@@ -1,4 +1,4 @@
-# Project Title: Classic Snakes Game In Python
+# Project Title: Classic Snake Game In Python
 
 ### [Video Demo](https://youtu.be/)
 
